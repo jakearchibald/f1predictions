@@ -1,0 +1,6 @@
+Django
+south
+-e hg+https://bitbucket.org/david/django-storages#egg=django-storages
+-e git+https://github.com/boto/boto.git#egg=boto
+python-openid
+django-openid-auth
